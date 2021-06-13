@@ -1,8 +1,8 @@
-# include <iostrem>
+#include<iostream>
 
 int main (void)
 
 {
-    std :: cout <<"hellow world\n";
-    reteun 0;
+    std :: cout <<"hellow world " << endl
+    return 0;
 }
